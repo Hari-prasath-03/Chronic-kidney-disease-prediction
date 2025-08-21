@@ -65,7 +65,3 @@ Here are the key features from the dataset:
 
 ---
 
-## 📉 Sample Output Explained
-
-Example: For `Random Forest Classifier`
-
